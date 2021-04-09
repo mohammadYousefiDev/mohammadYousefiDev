@@ -3,6 +3,6 @@
 - 🔭 I’m currently working on Biawp.ir content writing.
 - 🌱 I’m currently learning PHP in depth.
 - 💬 Ask me about Wordpress development.
-- 📫 How to reach me: +989931425379 on whatsapp & telegram (and call)
+- 📫 How to reach me: <a href="tel:+989931425379">+989931425379</a> on whatsapp & telegram (and call)
 - ⚡ Fun fact: Music playing (setar)
 
