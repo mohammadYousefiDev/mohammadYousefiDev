@@ -8,6 +8,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadYousefiDev&&hide=prs,issues,contribs&count_private=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadYousefiDev&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@5aefb371-0e68-47fb-a664-83789a50e8f2)](https://github.com/anuraghazra/github-readme-stats)
-
